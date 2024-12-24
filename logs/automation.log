@@ -1,0 +1,52 @@
+20:25:53.167 [main] INFO  testcases.TC001_AccountRegistrationTest - Providing customer details
+20:26:20.573 [main] INFO  testcases.TC002_LoginTest - *****Starting TC002_LoginTest********
+20:26:32.706 [main] INFO  testcases.TC002_LoginTest - *******Finished TC002_LoginTest**********
+20:29:11.439 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\Opencart\test-output\testng-failed.xml"
+20:29:11.786 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\Opencart\test-output\testng-failed.xml
+
+20:29:21.947 [main] INFO  testcases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest *****
+20:29:22.203 [main] INFO  testcases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+20:29:22.938 [main] INFO  testcases.TC001_AccountRegistrationTest - Clicked on Register link
+20:29:22.942 [main] INFO  testcases.TC001_AccountRegistrationTest - Providing customer details
+17:42:04.973 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\Opencart\master.xml"
+17:42:05.840 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\Opencart\master.xml
+
+16:39:34.988 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\Opencart\grid-docker.xml"
+16:39:35.620 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\Opencart\grid-docker.xml
+
+16:39:36.215 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest *****
+16:48:43.649 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\Opencart\grid-docker.xml"
+16:48:44.820 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\Opencart\grid-docker.xml
+
+16:48:45.331 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest *****
+11:20:45.109 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\Opencart\grid-docker.xml"
+11:20:47.778 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\Opencart\grid-docker.xml
+
+17:35:54.454 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\Opencart\grid-docker.xml"
+17:35:55.276 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\Opencart\grid-docker.xml
+
+17:35:55.758 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest *****
+17:39:06.365 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\Opencart\grid-docker.xml"
+17:39:07.277 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\Opencart\grid-docker.xml
+
+17:41:19.143 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\Opencart\grid-docker.xml"
+17:41:19.465 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\Opencart\grid-docker.xml
+
+17:59:20.957 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\Opencart\master.xml"
+17:34:12.038 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\Opencart\crossbrowsertest.xml"
+17:34:12.704 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\Opencart\crossbrowsertest.xml
+
+17:34:13.337 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest *****
+17:37:12.425 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\Opencart\crossbrowsertest.xml"
+17:37:12.704 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\Opencart\crossbrowsertest.xml
+

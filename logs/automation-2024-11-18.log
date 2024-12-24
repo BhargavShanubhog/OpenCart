@@ -1,0 +1,54 @@
+17:29:54.847 [main] INFO  testcases.TC001_AccountRegistrationTest - Clicked on Register link
+17:29:54.911 [main] INFO  testcases.TC001_AccountRegistrationTest - Providing customer details
+17:31:39.517 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\Opencart\master.xml"
+17:31:39.909 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\Opencart\master.xml
+
+17:32:28.818 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest *****
+17:32:29.830 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+17:32:31.903 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest - Clicked on Register link
+17:32:31.927 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest - Providing customer details
+17:32:38.977 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest *****
+17:32:41.577 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+17:32:43.546 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest - Clicked on Register link
+17:32:43.546 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest - Providing customer details
+17:33:56.746 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\Opencart\master.xml"
+17:33:57.249 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\Opencart\master.xml
+
+17:34:33.024 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest *****
+17:34:34.830 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+17:34:47.828 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest *****
+17:34:49.013 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest - Clicked on Register link
+17:34:49.317 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+17:34:49.664 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest - Providing customer details
+17:34:51.689 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest - Clicked on Register link
+17:34:51.690 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest - Providing customer details
+17:35:04.146 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest *****
+17:35:20.384 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+17:35:26.427 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest - Clicked on Register link
+17:35:26.429 [TestNG-tests-3] INFO  testcases.TC001_AccountRegistrationTest - Providing customer details
+17:53:19.461 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\Opencart\crossbrowsertest.xml"
+17:53:20.105 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\Opencart\crossbrowsertest.xml
+
+17:53:33.521 [main] INFO  testcases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest *****
+17:53:33.825 [main] INFO  testcases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+17:53:34.257 [main] INFO  testcases.TC001_AccountRegistrationTest - Clicked on Register link
+17:53:34.260 [main] INFO  testcases.TC001_AccountRegistrationTest - Providing customer details
+19:03:53.179 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\Opencart\master.xml"
+19:03:54.934 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\Opencart\master.xml
+
+19:04:25.051 [main] INFO  testcases.TC002_LoginTest - *****Starting TC002_LoginTest********
+19:04:27.582 [main] INFO  testcases.TC002_LoginTest - *******Finished TC002_LoginTest**********
+16:56:14.333 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\Opencart\master.xml"
+16:56:20.147 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\Opencart\master.xml
+
+16:56:43.799 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:56:43.802 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:56:43.804 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:56:48.613 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:56:48.615 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:56:48.617 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
